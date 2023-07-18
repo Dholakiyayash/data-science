@@ -1,0 +1,4 @@
+2023-07-18 11:22:30,097 root ERROR module 'pandas' has no attribute 'dataframe'
+2023-07-18 11:30:12,377 root INFO <class 'pandas.core.frame.DataFrame'>
+2023-07-18 11:30:32,574 root INFO <class 'pandas.core.frame.DataFrame'>
+2023-07-18 11:34:19,572 root INFO <class 'pandas.core.series.Series'>
