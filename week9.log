@@ -1,0 +1,3 @@
+2023-07-25 21:19:47,703 root INFO <class 'type'>
+2023-07-25 21:19:47,704 root INFO <class 'numpy.ndarray'>
+2023-07-25 21:19:47,778 root INFO [1 2 3 4 5]

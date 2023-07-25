@@ -2,3 +2,261 @@
 2023-07-18 11:30:12,377 root INFO <class 'pandas.core.frame.DataFrame'>
 2023-07-18 11:30:32,574 root INFO <class 'pandas.core.frame.DataFrame'>
 2023-07-18 11:34:19,572 root INFO <class 'pandas.core.series.Series'>
+2023-07-18 14:24:56,953 root INFO         0    1       2
+0    Name  Age  Gender
+1   Alice   25  Gender
+2     Bob   30    Male
+3  Claire   27  Female
+2023-07-18 14:26:03,770 root INFO         0    1       2
+0    Name  Age  Gender
+1   Alice   25  Gender
+2     Bob   30    Male
+3  Claire   27  Female
+2023-07-18 14:26:59,571 root INFO      Name  Age  Gender
+0    Name  Age  Gender
+1   Alice   25  Gender
+2     Bob   30    Male
+3  Claire   27  Female
+2023-07-18 14:27:08,084 root INFO      Name  Age  Gender
+0   Alice   25  Gender
+1     Bob   30    Male
+2  Claire   27  Female
+2023-07-18 14:27:51,166 root INFO      Name  Age  Gender
+0   Alice   25  Gender
+1     Bob   30    Male
+2  Claire   27  Female
+2023-07-18 14:27:51,174 root INFO      Name  Age  Gender
+0   Alice   25  Gender
+1     Bob   30    Male
+2  Claire   27  Female
+2023-07-18 14:28:09,881 root INFO      Name  Age  Gender
+0   Alice   25  Gender
+1     Bob   30    Male
+2  Claire   27  Female
+2023-07-18 14:28:09,891 root INFO      Name  Age  Gender
+0   Alice   25  Gender
+1     Bob   30    Male
+2  Claire   27  Female
+2023-07-18 14:28:55,547 root INFO      Name  Age  Gender
+0   Alice   25  Gender
+1     Bob   30    Male
+2  Claire   27  Female
+2023-07-18 14:28:55,556 root INFO      Name  Age  Gender
+0   Alice   25  Gender
+1     Bob   30    Male
+2  Claire   27  Female
+2023-07-18 14:28:55,564 root INFO Index(['Name', 'Age', 'Gender'], dtype='object')
+2023-07-18 14:29:23,665 root INFO      Name  Age  Gender
+0   Alice   25  Gender
+1     Bob   30    Male
+2  Claire   27  Female
+2023-07-18 14:29:23,675 root INFO      Name  Age  Gender
+0   Alice   25  Gender
+1     Bob   30    Male
+2  Claire   27  Female
+2023-07-18 14:29:23,683 root INFO Index(['Name', 'Age', 'Gender'], dtype='object')
+2023-07-18 14:32:10,372 root INFO      Name  Age  Gender
+0   Alice   25  Gender
+1     Bob   30    Male
+2  Claire   27  Female
+2023-07-18 14:32:10,380 root INFO      Name  Age  Gender
+0   Alice   25  Gender
+1     Bob   30    Male
+2  Claire   27  Female
+2023-07-18 14:32:10,388 root INFO Index(['Name', 'Age', 'Gender'], dtype='object')
+2023-07-18 14:32:23,898 root INFO      Name  Age  Gender
+0   Alice   25  Gender
+1     Bob   30    Male
+2  Claire   27  Female
+2023-07-18 14:32:23,908 root INFO      Name  Age  Gender
+0   Alice   25  Gender
+1     Bob   30    Male
+2  Claire   27  Female
+2023-07-18 14:32:23,915 root INFO Index(['Name', 'Age', 'Gender'], dtype='object')
+2023-07-18 14:32:37,996 root INFO      Name  Age  Gender
+0   Alice   25  Gender
+1     Bob   30    Male
+2  Claire   27  Female
+2023-07-18 14:32:38,005 root INFO      Name  Age  Gender
+0   Alice   25  Gender
+1     Bob   30    Male
+2  Claire   27  Female
+2023-07-18 14:32:38,012 root INFO Index(['Name', 'Age', 'Gender'], dtype='object')
+2023-07-18 14:32:38,013 root INFO Name      object
+Age        int64
+Gender    object
+dtype: object
+2023-07-18 19:20:59,911 root INFO     A   B   C
+1  12  13  14
+3  21  23  24
+5  33  36  39
+7  41  44  48
+2023-07-18 19:21:09,039 root INFO     A   B   C
+1  12  13  14
+3  21  23  24
+5  33  36  39
+7  41  44  48
+2023-07-18 19:22:17,523 root INFO    values
+0      10
+1      20
+2      30
+3      40
+4      50
+2023-07-18 19:24:11,690 root INFO    values
+0      10
+1      20
+2      30
+3      40
+4      50
+2023-07-18 19:24:21,836 root INFO    values
+0      10
+1      20
+2      30
+3      40
+4      50
+2023-07-18 19:24:32,657 root INFO    values
+0      10
+1      20
+2      30
+3      40
+4      50
+2023-07-18 22:21:05,440 root INFO    A  B  C
+1  8  2  7
+2  6  9  4
+4  9  1  2
+2023-07-18 22:21:24,611 root INFO    A  B  C
+1  8  2  7
+2  6  9  4
+4  9  1  2
+2023-07-18 22:22:31,898 root INFO Vales    32.111111
+dtype: float64
+2023-07-18 22:22:46,121 root INFO Vales    32.111111
+dtype: float64
+2023-07-18 22:23:14,505 root INFO Vales    32.111111
+dtype: float64
+2023-07-18 22:23:14,549 root ERROR Vales    45.0
+dtype: float64
+2023-07-18 22:23:43,417 root INFO Vales    32.111111
+dtype: float64
+2023-07-18 22:23:43,422 root INFO Vales    45.0
+dtype: float64
+2023-07-18 22:24:21,849 root INFO Vales    32.111111
+dtype: float64
+2023-07-18 22:24:21,854 root INFO Vales    45.0
+dtype: float64
+2023-07-18 22:24:21,919 root ERROR            Vales
+count   9.000000
+mean   32.111111
+std    26.322255
+min     2.000000
+25%     5.000000
+50%    45.000000
+75%    52.000000
+max    66.000000
+2023-07-18 22:24:34,575 root INFO Vales    32.111111
+dtype: float64
+2023-07-18 22:24:34,585 root INFO Vales    45.0
+dtype: float64
+2023-07-18 22:24:34,590 root ERROR Vales    26.322255
+dtype: float64
+2023-07-18 22:24:57,463 root INFO Vales    32.111111
+dtype: float64
+2023-07-18 22:24:57,473 root INFO Vales    45.0
+dtype: float64
+2023-07-18 22:24:57,478 root ERROR Vales    26.322255
+dtype: float64
+2023-07-22 17:58:52,102 root INFO course_name    Machine Learning
+duration                      3
+Name: 1, dtype: object
+2023-07-22 17:59:04,050 root INFO course_name    Machine Learning
+duration                      3
+Name: 1, dtype: object
+2023-07-22 17:59:08,528 root INFO course_name    Machine Learning
+duration                      3
+Name: 1, dtype: object
+2023-07-22 17:59:50,708 root INFO course_name    Machine Learning
+duration                      3
+Name: 1, dtype: object
+2023-07-22 18:00:17,251 root INFO course_name    Machine Learning
+duration                      3
+Name: 1, dtype: object
+2023-07-22 18:01:09,278 root INFO course_name    Machine Learning
+duration                      3
+Name: 1, dtype: object
+2023-07-22 18:01:51,208 root INFO course_name    Machine Learning
+duration                      3
+Name: 1, dtype: object
+2023-07-22 18:02:14,693 root INFO course_name    Machine Learning
+duration                      3
+Name: 1, dtype: object
+2023-07-22 18:02:24,198 root INFO course_name    Machine Learning
+duration                      3
+Name: 1, dtype: object
+2023-07-22 18:03:06,093 root INFO course_name    Machine Learning
+duration                      3
+Name: 1, dtype: object
+2023-07-22 18:04:57,977 root ERROR         course_name
+0      Data Science
+1  Machine Learning
+2          Big Data
+3     Data Engineer
+2023-07-22 18:07:11,144 root ERROR         course_name
+0      Data Science
+1  Machine Learning
+2          Big Data
+3     Data Engineer
+2023-07-22 18:07:23,047 root ERROR         course_name
+0      Data Science
+1  Machine Learning
+2          Big Data
+3     Data Engineer
+2023-07-22 18:08:07,771 root DEBUG         course_name  duration
+1  Machine Learning         3
+2023-07-22 18:08:24,848 root DEBUG course_name    Machine Learning
+duration                      3
+Name: 1, dtype: object
+2023-07-22 18:08:24,853 root DEBUG         course_name  duration
+1  Machine Learning         3
+2023-07-22 18:08:29,884 root DEBUG course_name    Machine Learning
+duration                      3
+Name: 1, dtype: object
+2023-07-22 18:08:29,888 root DEBUG         course_name  duration
+1  Machine Learning         3
+2023-07-22 18:08:41,176 root DEBUG course_name    Machine Learning
+duration                      3
+Name: 1, dtype: object
+2023-07-22 18:08:41,181 root DEBUG         course_name  duration
+1  Machine Learning         3
+2023-07-22 18:08:54,368 root DEBUG course_name    Machine Learning
+duration                      3
+Name: 1, dtype: object
+2023-07-22 18:08:54,374 root DEBUG         course_name  duration
+1  Machine Learning         3
+2023-07-22 18:09:06,153 root DEBUG course_name    Machine Learning
+duration                      3
+Name: 1, dtype: object
+2023-07-22 18:09:06,158 root DEBUG         course_name  duration
+1  Machine Learning         3
+2023-07-22 18:15:36,940 root DEBUG course_name    Big Data
+duration              6
+Name: 2, dtype: object
+2023-07-22 18:15:36,943 root DEBUG course_name    Machine Learning
+duration                      3
+Name: 1, dtype: object
+2023-07-22 18:16:07,149 root DEBUG course_name    Big Data
+duration              6
+Name: 2, dtype: object
+2023-07-22 18:16:07,154 root DEBUG   course_name  duration
+2    Big Data         6
+2023-07-25 20:28:20,386 root INFO <class 'type'>
+2023-07-25 20:28:20,407 root INFO <class 'numpy.ndarray'>
+2023-07-25 20:28:29,971 root INFO <class 'type'>
+2023-07-25 20:28:29,972 root INFO <class 'numpy.ndarray'>
+2023-07-25 20:29:28,188 root INFO <class 'type'>
+2023-07-25 20:29:28,189 root INFO <class 'numpy.ndarray'>
+2023-07-25 20:31:26,662 root INFO [1 2 3 4 5]
+2023-07-25 21:18:24,328 root INFO <class 'type'>
+2023-07-25 21:18:24,357 root INFO <class 'numpy.ndarray'>
+2023-07-25 21:18:24,937 root INFO [1 2 3 4 5]
+2023-07-25 21:18:55,796 root INFO <class 'type'>
+2023-07-25 21:18:55,797 root INFO <class 'numpy.ndarray'>
