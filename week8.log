@@ -260,3 +260,31 @@ Name: 2, dtype: object
 2023-07-25 21:18:24,937 root INFO [1 2 3 4 5]
 2023-07-25 21:18:55,796 root INFO <class 'type'>
 2023-07-25 21:18:55,797 root INFO <class 'numpy.ndarray'>
+2023-07-27 10:05:12,056 root DEBUG course_name    Big Data
+duration              6
+Name: 2, dtype: object
+2023-07-27 10:05:12,297 root DEBUG   course_name  duration
+2    Big Data         6
+2023-07-27 10:05:12,658 root DEBUG course_name    Big Data
+duration              6
+Name: 2, dtype: object
+2023-07-27 10:05:12,660 root DEBUG course_name    Machine Learning
+duration                      3
+Name: 1, dtype: object
+2023-07-27 11:33:43,460 root INFO 2023
+2023-07-27 11:33:43,522 root INFO 7
+2023-07-27 11:46:34,028 root INFO 2023
+2023-07-27 11:46:34,036 root INFO 7
+2023-07-27 12:13:18,212 root DEBUG course_name    Big Data
+duration              6
+Name: 2, dtype: object
+2023-07-27 12:13:18,273 root DEBUG   course_name  duration
+2    Big Data         6
+2023-07-27 12:13:18,326 root DEBUG course_name    Big Data
+duration              6
+Name: 2, dtype: object
+2023-07-27 12:13:18,330 root DEBUG course_name    Machine Learning
+duration                      3
+Name: 1, dtype: object
+2023-07-27 12:13:20,104 root INFO 2023
+2023-07-27 12:13:20,105 root INFO 7
